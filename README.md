@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm **Maxwell Eley**
 
 💻 Full-Stack Developer @ **[Triumph Tech](https://triumph.tech)**  
-🏋️‍♂️ Competitive Powerlifter in the 75kg class  
+🏋️‍♂️ Competitive Powerlifter
 ☁️ Currently diving deep into **AWS** & cloud infrastructure  
 🤝 Open to collaboration — let’s build something awesome!  
 📫 Reach me at: **maxwelleley2@gmail.com**
