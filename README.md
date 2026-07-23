@@ -3,8 +3,7 @@
 **Full-Stack Developer · Rock RMS Specialist**  
 Triumph Tech
 
-Building high-performance systems for the church technology space — and training the same way in the gym.
-
+Building high-performance systems for the church technology space
 ---
 
 ### Focus
